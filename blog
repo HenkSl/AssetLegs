@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+
+<html>
+    
+	<head>
+        
+		<meta charset="utf-8">
+        
+		<title>Project: Blog</title>
+    
+	</head>
+    
+	<body>
+        
+        
+
+		<h1 id="top">Henk's blog</h1>
+
+        
+		<h3>Contents</h3>
+        
+		<ul>
+            
+			<li><a href="#post1">JavaScript!</a></li>
+            
+			<li><a href="#post2">JavaScript 2</a></li>
+            
+			<li><a href="#post3">HTML</a></li>
+            
+			<li><a href="#post4">CSS</a></li>
+            
+			<li><a href="#post5">more CSS</a></li>
+        
+		</ul>
+  
+      
+        
+		<h2 id="post1">JavaScript!</h2>
+        
+		<h6>Posted on 1 november 2018</h6>
+        
+        
+		
+		<p>Getting It?
+            
+			Not anywhere near<br>
+            
+			al die piegeltjes<br>
+            
+			en truppeltjes, bleh<br>
+            
+        	
+		</p>
+        
+		<p><a href="#top">Terug naar Top</a></p> 
+        
+
+		<h2 id="post2">JavaScript 2</h2>
+        
+		<h6>Posted on 2 november 2018</h6>
+        
+        
+
+		<p>Getting tired of IT??
+            
+			Broekhoest<br>
+            
+			Schiet mij maar lek<br>
+            
+			en andere boeiende zakken<br>
+            
+        
+		</p>
+        
+		<p><a href="#top">Terug naar Top</a></p> 
+        
+        
+
+		<h2 id="post3">HTML</h2>
+        
+		<h6>Posted on 3 november 2018</h6>
+        
+        
+
+		<p>Getting so tired of IT??
+            
+			Blurb en bah<br>
+            
+			Net of ik het niet leuk vind<br>
+            
+			what else<br>
+            
+        
+		</p>
+        
+		<p><a href="#top">Terug naar Top</a></p> 
+
+        
+
+		<h2 id="post4">CSS</h2>
+        
+		<h6>Posted on 4 november 2018</h6>
+        
+        
+		<p>Getting retired of IT??
+            
+			Oud en dom<br>
+            
+			Schrikbarend en van Dorp<br>
+            
+			snoep en snap<br>
+            
+        
+		</p>
+        
+		<p><a href="#top">Terug naar Top</a></p> 
+
+        
+
+		<h2 id="post5">more CSS</h2>
+        
+		<h6>Posted on 5 november 2018</h6>
+        
+        
+		
+		<p>Over en out of IT??
+            
+			Kweenie<br>
+            
+			Mijnheer kaktus wel<br>
+            
+			Spelende vrouw inschakelen<br>
+            
+			Mevrouw Stemband<br>
+        
+		</p>
+        
+		<p><a href="#top">Terug naar Top</a></p> 
+        
+    
+	</body>
+
+</html>
